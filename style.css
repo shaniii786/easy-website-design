@@ -1,0 +1,127 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500;700&display=swap');
+
+.display-flex{
+    display: flex;
+}
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+.justify-content-center{
+ justify-content: center;
+}
+.justify-content-right{
+    justify-content: right;
+}
+.justify-content-between{
+    justify-content: space-between;
+}
+.align-item-center{
+    align-items: center;
+}
+.gap-40{
+    gap: 40px;
+}
+.gap-200{
+  gap: 300px;
+}
+.gap-10{
+    gap: 10px;
+}
+.gap-15{
+    gap: 15px;
+}
+.gap-250{
+    gap: 250px;
+}
+.gap-20{
+    gap: 20px;
+}
+.w-full{
+    width: 100%;
+}
+.list-style {
+    list-style: none;
+    text-decoration: none;
+}
+.color-white{
+    color: white;
+}
+
+body{
+position: relative;
+width: 1842px;
+margin-right: auto;
+margin-left: auto;
+font-family: 'Roboto';
+/* margin: 0px; */
+/* height: 3372px; */
+background: #1E1E1E;
+}
+
+.nav-bar{
+   padding: 58px 166px 0px 88px;
+}
+
+/* .section-one{
+    padding: 0px 150px;
+} */
+
+p,h1,h2,h3,h4 {
+margin: 0px;
+}
+
+.buy-nfts-border{
+
+    border: 1px solid white;
+    border-radius: 50px;
+    width: 100px;
+    height: 30px;
+}
+
+.discover-heading{
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 700;
+font-size: 70px;
+line-height: 100px;
+}
+
+.border-with{
+width: 200px;
+height: 50px;
+    
+}
+
+.border-color{
+    border: 1px solid #00E4E4;
+   
+}
+.light-green{
+    color:  #00E4E4;
+}
+
+/* .border-color-1{
+    border: 1px solid #00E4E4;
+   
+} */
+
+.main-div{
+    padding: 0px 300px;
+   
+}
+
+.logo{
+    margin-left: 150px;
+    width: 1599px;
+    height: 102px;
+    background: blue;
+}
+
+.section-two{
+    padding: 0px 150px;
+}
+
+/* .heading{
+    
+} */
